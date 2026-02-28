@@ -11,4 +11,7 @@
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk&logoColor=white)](#)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](#)
 
+# DEV QOUTE:
+"if it works, dont touch it"
+
 ---
